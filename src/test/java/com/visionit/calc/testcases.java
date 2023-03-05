@@ -5,7 +5,9 @@ import org.junit.Test;
 import junit.framework.Assert;
 
 public class testcases {
+	//now
 	
+	//change test
 	@Test
 	public void t_01_test_add() {
 		
@@ -39,7 +41,7 @@ public class testcases {
 		int num2 = 2;
 		
 		//Expected
-		int expected = 3;
+		int expected = 4;
 		
 		//Steps to be done
 		Average average = new Average(num1,num2);
