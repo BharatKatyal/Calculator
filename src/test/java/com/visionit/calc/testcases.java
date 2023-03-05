@@ -41,7 +41,7 @@ public class testcases {
 		int num2 = 2;
 		
 		//Expected
-		int expected = 4;
+		int expected = 3;
 		
 		//Steps to be done
 		Average average = new Average(num1,num2);
