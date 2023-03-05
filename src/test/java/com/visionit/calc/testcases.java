@@ -7,7 +7,7 @@ import junit.framework.Assert;
 public class testcases {
 	//now
 	
-	//change test March 5 10:52AM
+	//change test March 5 11AM
 	@Test
 	public void t_01_test_add() {
 		
